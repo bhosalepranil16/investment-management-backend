@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`util.js Test errorHandler 1`] = `
+{
+  "msg": "error message",
+}
+`;
+
+exports[`util.js Test generateOTP 1`] = `"510615"`;

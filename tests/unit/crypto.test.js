@@ -25,7 +25,6 @@ describe("Crypto Controller", () => {
       })
       .send();
     expect(res.statusCode).toBe(200);
-    console.log(res.body);
   });
 
   it("PUT /crypto", async () => {
