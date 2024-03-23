@@ -19,6 +19,27 @@ const CONSTANTS = {
   REGULAR_EXPRESSIONS: {
     PHONE_NUMBER: /^((\+91?)|\+)?[7-9][0-9]{9}$/,
   },
+  MODEL_PROPERTIES: {
+    ID: "id",
+    NAME: "name",
+    EMAIL: "email",
+    MOBILE_NUMBER: "mobileNumber",
+    DATE_OF_BIRTH: "dateOfBirth",
+    CREATED_AT: "createdAt",
+    UPDATED_AT: "updatedAt",
+    TITLE: "title",
+    QUANTITY: "quantity",
+    PRICE: "price",
+    VALUE: "value",
+    TYPE: "type",
+    USER_ID: "userId",
+    NAV: "nav",
+    SMALL_CAP_PERCENTAGE: "smallCapPercentage",
+    MID_CAP_PERCENTAGE: "midCapPercentage",
+    LARGE_CAP_PERCENTAGE: "largeCapPercentage",
+    CASH_PERCENTAGE: "cashPercentage",
+    DESC: "desc",
+  },
 };
 
 module.exports = CONSTANTS;

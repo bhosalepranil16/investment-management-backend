@@ -1,0 +1,14 @@
+.page-title {
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+.page-subtitle {
+  text-align: center;
+}
+
+.page-subtitle a {
+  text-decoration: none;
+  color: #61affe;
+}
